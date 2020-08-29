@@ -4,5 +4,5 @@ def square_array(array)
     |index|
     new_array.push(array[index]**2)
   }
-  puts new_array
+  return new_array
 end
